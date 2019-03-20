@@ -1,0 +1,15 @@
+{
+  "name": "fucking-util-signature-uni",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lipingruan",
+  "license": "MIT",
+  "dependencies": {
+    "js-md5": "^0.7.3",
+    "js-sha256": "^0.9.0"
+  }
+}
