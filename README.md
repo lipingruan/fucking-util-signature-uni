@@ -1,6 +1,6 @@
 # fucking-util-signature-uni
 
-兼容支持 微信小程序
+兼容支持 各种小程序
 
 模块依赖 **fucking-util** 模块, 请预先安装
 
