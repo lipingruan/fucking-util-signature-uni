@@ -14,6 +14,7 @@
 - [x] [如何在 Golang 中使用?](https://github.com/lipingruan/fucking-util-signature-all/issues/1)
 - [x] [如何在 Java 中使用?](https://github.com/lipingruan/fucking-util-signature-all/issues/2)
 - [x] [Java RSA加解密示例](https://github.com/lipingruan/fucking-util-signature-rsa-java)
+- [x] [rsa.keys属性参考(修改后的NodeRSA实例)](https://github.com/rzcoder/node-rsa)
 
 ## 使用方法
 
