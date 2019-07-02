@@ -12,7 +12,8 @@
 
 ## 常见疑难解答
 - [x] [如何在 Golang 中使用?](https://github.com/lipingruan/fucking-util-signature-all/issues/1)
-- [x] [如何在 Java 中使用?] (https://github.com/lipingruan/fucking-util-signature-all/issues/2)
+- [x] [如何在 Java 中使用?](https://github.com/lipingruan/fucking-util-signature-all/issues/2)
+- [x] [Java RSA加解密示例](https://github.com/lipingruan/fucking-util-signature-rsa-java)
 
 ## 使用方法
 
