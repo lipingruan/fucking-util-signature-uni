@@ -15,6 +15,7 @@
 - [x] [如何在 Java 中使用?](https://github.com/lipingruan/fucking-util-signature-all/issues/2)
 - [x] [Java RSA加解密示例](https://github.com/lipingruan/fucking-util-signature-rsa-java)
 - [x] [rsa.keys属性参考(修改后的NodeRSA实例)](https://github.com/rzcoder/node-rsa)
+- [x] [Nvue报错?](https://github.com/lipingruan/fucking-util-signature-all/issues/5)
 
 ## 使用方法
 
