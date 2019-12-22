@@ -13,6 +13,7 @@
 ## 常见疑难解答
 - [x] [如何在 Golang 中使用?](https://github.com/lipingruan/fucking-util-signature-all/issues/1)
 - [x] [如何在 Java 中使用?](https://github.com/lipingruan/fucking-util-signature-all/issues/2)
+- [x] [如何在 PHP 中使用?](https://github.com/lipingruan/fucking-util-signature-all/issues/7)
 - [x] [Java RSA加解密示例](https://github.com/lipingruan/fucking-util-signature-rsa-java)
 - [x] [rsa.keys属性参考(修改后的NodeRSA实例)](https://github.com/rzcoder/node-rsa)
 - [x] [Nvue报错?](https://github.com/lipingruan/fucking-util-signature-all/issues/5)
@@ -190,4 +191,13 @@ console.log ( 'encrypted', encrypted );
 let decrypted = rsa.keys.decryptPublic ( encrypted, 'utf8' );
 
 console.log ( 'decrypted', decrypted );
+```
+## RSA加解密Padding更改
+支持Padding: 
+1. *pkcs1*
+2. *pkcs1_oaep (默认)*
+更改到与其它端匹配的填充方式: 
+```javascript
+// RSA对象
+rsa.keys.setOptions({encryptionScheme: 'pkcs1'});
 ```
